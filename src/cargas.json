@@ -1,0 +1,73 @@
+[
+    {
+      "vehicle": "2023 Toyota Hilux",
+      "origin": "Porto Alegre - RS",
+      "destination": "São Paulo - SP",
+      "price": 850,
+      "broker": { "phone": "(11) 99999-8888" }
+    },
+    {
+      "vehicle": "2022 Ford EcoSport",
+      "origin": "Recife - PE",
+      "destination": "Salvador - BA",
+      "price": 790,
+      "broker": { "phone": "(71) 98888-7777" }
+    },
+    {
+      "vehicle": "2021 Fiat Toro",
+      "origin": "Belo Horizonte - MG",
+      "destination": "Curitiba - PR",
+      "price": 900,
+      "broker": { "phone": "(31) 98888-1234" }
+    },
+    {
+      "vehicle": "2020 Chevrolet S10",
+      "origin": "Campinas - SP",
+      "destination": "Rio de Janeiro - RJ",
+      "price": 820,
+      "broker": { "phone": "(19) 97777-4567" }
+    },
+    {
+      "vehicle": "2023 VW Amarok",
+      "origin": "Joinville - SC",
+      "destination": "Londrina - PR",
+      "price": 870,
+      "broker": { "phone": "(47) 96666-7890" }
+    },
+    {
+      "vehicle": "2022 Renault Duster",
+      "origin": "Fortaleza - CE",
+      "destination": "São Luís - MA",
+      "price": 880,
+      "broker": { "phone": "(85) 95555-1010" }
+    },
+    {
+      "vehicle": "2021 Nissan Frontier",
+      "origin": "Manaus - AM",
+      "destination": "Boa Vista - RR",
+      "price": 950,
+      "broker": { "phone": "(92) 94444-2020" }
+    },
+    {
+      "vehicle": "2020 Mitsubishi L200",
+      "origin": "Goiânia - GO",
+      "destination": "Brasília - DF",
+      "price": 890,
+      "broker": { "phone": "(62) 93333-3030" }
+    },
+    {
+      "vehicle": "2023 Honda HR-V",
+      "origin": "Natal - RN",
+      "destination": "João Pessoa - PB",
+      "price": 760,
+      "broker": { "phone": "(84) 92222-4040" }
+    },
+    {
+      "vehicle": "2021 Jeep Compass",
+      "origin": "Florianópolis - SC",
+      "destination": "Pelotas - RS",
+      "price": 810,
+      "broker": { "phone": "(48) 91111-5050" }
+    }
+  ]
+  
