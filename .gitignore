@@ -1,0 +1,5 @@
+# TODO Comente estas regras se variáveis ​​de ambiente podem ser confirmadas.
+.env
+.env*.local
+./src/data.txt
+./node_modules/*
